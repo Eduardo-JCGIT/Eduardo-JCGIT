@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋 I am Eduardo Jiménez, a 21-year-old developer web from Mexico<br><br>💻 My skills are based on HTML, CSS, JavaScript, PHP, Python, React JS, Node JS, and Laravel.<br>⌨️ Experienced in managing databases with SQL, MySQL, PHPMyAdmin, and MariaDB.<br>👨‍💻 I am currently working at the university's Technology Department in the city of Campeche.<br>✨ At the moment, I am improving my skills in Laravel.<br>🤝 I can help you with projects you are interested in.<br>📧 You can contact me at the following email : eduardo.zyh@gmail.com
+🙋 I am Eduardo Jiménez, a 21-year-old developer web from Mexico<br>💻 My skills are based on HTML, CSS, JavaScript, PHP, Python, React JS, Node JS, and Laravel.<br>⌨️ Experienced in managing databases with SQL, MySQL, PHPMyAdmin, and MariaDB.<br>👨‍💻 I am currently working at the university's Technology Department in the city of Campeche.<br>✨ At the moment, I am improving my skills in Laravel.<br>🤝 I can help you with projects you are interested in.<br>📧 You can contact me at the following email : eduardo.zyh@gmail.com
 
 
 ## 🌐 Socials:
